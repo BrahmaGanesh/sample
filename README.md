@@ -1,1 +1,1 @@
-https://brahmaganesh.github.io/sample/
+https://brahmaganesh.github.io/sample/home.html
